@@ -1,29 +1,54 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#======================================  
+# .gitignore  
+#======================================  
+.git  
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#--------------------------  
+# ignored files for vc++  
+#--------------------------  
+UpgradeLog.XML  
+~*  
+*~  
+*.7z  
+*.a  
+*.aps  
+*.clw  
+*.dll  
+*.dsp  
+*.dsw  
+*.exe  
+*.exp  
+*.lastbuildstate  
+*.lib  
+*.log  
+*.tlog  
+*.idb  
+*.ilk  
+*.ncb  
+*.obj  
+*.opensdf  
+*.pdb  
+*.pyc  
+*.rar  
+*.res  
+*.sdf  
+*.so  
+*.suo  
+*.user  
+*.zip  
+  
+#--------------------------  
+# ignored dirs for vc++  
+#--------------------------  
+Debug.win32/  
+Release.win32/  
+*.tlog/  
+_UpgradeReport_Files/  
+ipch/  
+tmp/  
+temp/  
+~*/  
+target/  
+build/  
+Debug/  
+Release/  
