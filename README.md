@@ -1,7 +1,7 @@
 # JfzStereoVision
 基于OpenCV的双目视觉匹配测距系统
 
-https://jfz.me/blog/2018/jfz-stereo-vision.html
+https://blog.jfz.me/2018/jfz-stereo-vision.html
 
 ## Readme
 
@@ -14,6 +14,10 @@ JfzStereoVision：用于载入相机参数，从而进行匹配测距，生成�
 后来学了Qt，想用Qt写个像样的图形界面，可惜也弃坑了：https://github.com/jiangfangzheng/JfzQtStereoVision
 
 ## Update
+
+2022-08-16
+
+更新下博客链接。看到这几年还是有些小伙伴陆续点赞，开心！
 
 2019-12-29
 
